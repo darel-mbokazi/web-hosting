@@ -211,7 +211,7 @@ const Header = () => {
                     onClick={handleAddToCart}
                     className="flex items-center justify-center gap-2 w-full bg-vivid_blue text-white font-semibold px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors">
                     <FaShoppingCart />
-                    Add to Cart - R150/year
+                    Add to Cart
                   </button>
                 )}
               </div>
